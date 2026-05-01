@@ -1,0 +1,18 @@
+owner: pccxai
+
+public_repositories:
+  - pccx
+  - pccx-lab
+  - pccx-FPGA-NPU-LLM-kv260
+  - pccx-systemverilog-ide
+  - pccx-llm-launcher
+  - .github
+
+blocked_repositories:
+  - pccx-staging
+  - pccx-lab-staging
+  - pccx-FPGA-NPU-LLM-kv260-staging
+  - pccx-systemverilog-ide-staging
+  - pccx-llm-launcher-staging
+
+mode: read-report-only
