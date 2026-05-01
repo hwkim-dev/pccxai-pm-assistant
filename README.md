@@ -40,6 +40,8 @@ Primary PCCXAI repositories:
 - [pccx](https://github.com/pccxai/pccx)
 - [pccx-lab](https://github.com/pccxai/pccx-lab)
 - [pccx-FPGA-NPU-LLM-kv260](https://github.com/pccxai/pccx-FPGA-NPU-LLM-kv260)
+- [pccx-systemverilog-ide](https://github.com/pccxai/pccx-systemverilog-ide)
+- [pccx-llm-launcher](https://github.com/pccxai/pccx-llm-launcher)
 - [pccxai organization profile](https://github.com/pccxai/.github)
 
 ## Operating principle
